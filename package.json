@@ -1,11 +1,22 @@
 {
-  "name": "webpack-babel-assignment",
+  "name": "webpack",
   "version": "1.0.0",
   "description": "Webpack Babel Assignment",
   "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {},
-  "devDependencies": {}
+  "dependencies": {
+    "babel": "^6.23.0"
+  },
+  "devDependencies": {},
+  "main": "webpack.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladTimofte/webpack-babel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VladTimofte/webpack-babel/issues"
+  },
+  "homepage": "https://github.com/VladTimofte/webpack-babel#readme"
 }
