@@ -1,0 +1,11 @@
+{
+  "name": "webpack-babel-assignment",
+  "version": "1.0.0",
+  "description": "Webpack Babel Assignment",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
